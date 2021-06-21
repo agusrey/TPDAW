@@ -1,0 +1,25 @@
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+
+.colorFondo{
+    background-color: rgb(118, 95, 252);
+       
+}
+.nombreDisp{
+    font-size: 25px;
+    color: rgb(3, 5, 121);
+}
+
+.switch label .lever {
+    width: 40px ;
+}
+
